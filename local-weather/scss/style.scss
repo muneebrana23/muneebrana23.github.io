@@ -1,0 +1,53 @@
+body{
+   
+    background-image: url("https://res.cloudinary.com/dzrjijwxf/image/upload/v1517992249/m3z1yewzdqgod5hgeidk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  
+}
+.type{
+  font-family:"Georgia ";
+  color:#aaffee;
+}
+.weather-temp{
+  font-size: 22px;
+  font-weight:600;
+  color: #fff;
+}
+
+.span-size{
+  background-color:#fff;
+  opacity: 0.7;
+  padding-left:30px;
+  padding-right:30px;
+  padding-top:25px;
+  padding-bottom:25px;
+  border-radius: 15px;
+}
+
+.algn{
+  text-align:center;
+}
+.city{
+   font-size: 22px;
+  font-weight:600;
+  
+}
+.speed{
+   font-size: 22px;
+  font-weight:600;
+  
+}
+.desc{
+   font-size: 22px;
+  font-weight:600;
+  
+}
+.cntr{
+  margin-left:42%;
+}
+
+.icon{position: relative;
+    bottom: 9px;
+}
